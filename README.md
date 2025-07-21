@@ -2,7 +2,7 @@
   <head>
     <body>
       <h1>Ragul</h1>
-      <input type="texr>
+      <input type="text>
     </body>
   </head>
 </html>
